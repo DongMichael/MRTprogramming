@@ -1,0 +1,16 @@
+
+public class MethodPractice {
+	public static void main(String[] args){  
+	}
+public double max(double first, double second){
+	if(first>second){
+		return first;
+	}
+		else {
+		return second;
+		}
+}
+public double exponent(double x, int y){
+		return x*x;
+	}
+}
